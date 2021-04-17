@@ -3,7 +3,7 @@
     <title>MusicWithBry.today</title>
     <link href="https://musicwithbry.today/feed.xml" rel="self" />
     <link href="https://musicwithbry.today" />
-    <updated>2021-04-17T12:37:15+03:00</updated>
+    <updated>2021-04-17T13:03:24+03:00</updated>
     <author>
         <name>Brylie Christopher Oxley</name>
     </author>
@@ -18,10 +18,10 @@
         <id>https://musicwithbry.today/campfire-chords-introduction-to-caged.html</id>
             <category term="guitar"/>
 
-        <updated>2021-04-17T12:37:15+03:00</updated>
+        <updated>2021-04-17T13:03:24+03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://musicwithbry.today/media/posts/1/guitar_fretboard-CAGED-2.png" alt="" />
+                        <img src="https://musicwithbry.today/media/posts/1/guitar_fretboard-CAGED-7.png" alt="" />
                     
   <p>
     Learning these five chord shapes will open up a deeper understanding of the guitar.
@@ -31,7 +31,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://musicwithbry.today/media/posts/1/guitar_fretboard-CAGED-2.png" alt="" />
+                    <img src="https://musicwithbry.today/media/posts/1/guitar_fretboard-CAGED-7.png" alt="" />
                 
   <p>
     Learning these five chord shapes will open up a deeper understanding of the guitar.
@@ -43,7 +43,17 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://musicwithbry.today/media/posts/1/guitar_fretboard-CAGED-3.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-3-xs.png 300w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-3-sm.png 480w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-3-md.png 768w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-3-lg.png 1024w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-3-xl.png 1360w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-3-2xl.png 1600w"  height="286" width="674" alt="" />
+      <img loading="lazy" src="https://musicwithbry.today/media/posts/1/guitar_fretboard-CAGED.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-xs.png 300w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-sm.png 480w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-md.png 768w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-lg.png 1024w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-xl.png 1360w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-2xl.png 1600w"  height="1" width="137" alt="" />
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://musicwithbry.today/media/posts/1/guitar_fretboard-CAGED-6.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-6-xs.png 300w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-6-sm.png 480w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-6-md.png 768w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-6-lg.png 1024w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-6-xl.png 1360w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-6-2xl.png 1600w"  height="670" width="1100" alt="" />
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://musicwithbry.today/media/posts/1/guitar_fretboard-CAGED-5.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-5-xs.png 300w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-5-sm.png 480w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-5-md.png 768w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-5-lg.png 1024w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-5-xl.png 1360w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-5-2xl.png 1600w"  height="1" width="137" alt="" />
       
     </figure>
             ]]>
