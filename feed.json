@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MusicWithBry.today",
+    "description": "",
+    "home_page_url": "https://brylie.github.io/musicwithbry.today",
+    "feed_url": "https://brylie.github.io/musicwithbry.today/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Brylie Christopher Oxley"
+    },
+    "items": [
+        {
+            "id": "https://brylie.github.io/musicwithbry.today/campfire-chords-introduction-to-caged.html",
+            "url": "https://brylie.github.io/musicwithbry.today/campfire-chords-introduction-to-caged.html",
+            "title": "Campfire chords - introduction to CAGED",
+            "summary": "\n  <p>\n    Learning these five chord shapes will open up a deeper understanding of the guitar.\n  </p>\n",
+            "content_html": "\n  <p>\n    Learning these five chord shapes will open up a deeper understanding of the guitar.\n  </p>\n<hr id=\"read-more\" />\n\n  <p>\n    When starting out, we learn several common chords, namely C, A, G, E, and D. Those five chords (and a couple of minor counterparts) are used in countless songs. They also lay the foundation for a greater understanding of the layout of the guitar, forming a constellation that spans the length of the neck.\n  </p>",
+            "author": {
+                "name": "Brylie Christopher Oxley"
+            },
+            "tags": [
+                   "guitar"
+            ],
+            "date_published": "2021-04-17T11:04:52+03:00",
+            "date_modified": "2021-04-17T11:04:52+03:00"
+        }
+    ]
+}
