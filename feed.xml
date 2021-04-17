@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>MusicWithBry.today</title>
-    <link href="https://brylie.github.io/musicwithbry.today/feed.xml" rel="self" />
-    <link href="https://brylie.github.io/musicwithbry.today" />
+    <link href="https://musicwithbry.today/feed.xml" rel="self" />
+    <link href="https://musicwithbry.today" />
     <updated>2021-04-17T12:23:12+03:00</updated>
     <author>
         <name>Brylie Christopher Oxley</name>
     </author>
-    <id>https://brylie.github.io/musicwithbry.today</id>
+    <id>https://musicwithbry.today</id>
 
     <entry>
         <title>Campfire chords - introduction to CAGED</title>
         <author>
             <name>Brylie Christopher Oxley</name>
         </author>
-        <link href="https://brylie.github.io/musicwithbry.today/campfire-chords-introduction-to-caged.html"/>
-        <id>https://brylie.github.io/musicwithbry.today/campfire-chords-introduction-to-caged.html</id>
+        <link href="https://musicwithbry.today/campfire-chords-introduction-to-caged.html"/>
+        <id>https://musicwithbry.today/campfire-chords-introduction-to-caged.html</id>
             <category term="guitar"/>
 
         <updated>2021-04-17T12:23:12+03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://brylie.github.io/musicwithbry.today/media/posts/1/guitar_fretboard-CAGED.PNG" alt="" />
+                        <img src="https://musicwithbry.today/media/posts/1/guitar_fretboard-CAGED.PNG" alt="" />
                     
   <p>
     Learning these five chord shapes will open up a deeper understanding of the guitar.
@@ -31,7 +31,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://brylie.github.io/musicwithbry.today/media/posts/1/guitar_fretboard-CAGED.PNG" alt="" />
+                    <img src="https://musicwithbry.today/media/posts/1/guitar_fretboard-CAGED.PNG" alt="" />
                 
   <p>
     Learning these five chord shapes will open up a deeper understanding of the guitar.
@@ -43,7 +43,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://brylie.github.io/musicwithbry.today/media/posts/1/guitar_fretboard-CAGED-2.PNG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://brylie.github.io/musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-2-xs.PNG 300w ,https://brylie.github.io/musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-2-sm.PNG 480w ,https://brylie.github.io/musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-2-md.PNG 768w ,https://brylie.github.io/musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-2-lg.PNG 1024w ,https://brylie.github.io/musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-2-xl.PNG 1360w ,https://brylie.github.io/musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-2-2xl.PNG 1600w"  height="262" width="636" alt="" />
+      <img loading="lazy" src="https://musicwithbry.today/media/posts/1/guitar_fretboard-CAGED-2.PNG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-2-xs.PNG 300w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-2-sm.PNG 480w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-2-md.PNG 768w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-2-lg.PNG 1024w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-2-xl.PNG 1360w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-2-2xl.PNG 1600w"  height="262" width="636" alt="" />
       
     </figure>
             ]]>
