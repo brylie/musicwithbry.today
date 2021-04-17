@@ -14,8 +14,8 @@
             "url": "https://musicwithbry.today/campfire-chords-introduction-to-caged.html",
             "title": "Campfire chords - introduction to CAGED",
             "summary": "\n  <p>\n    Learning these five chord shapes will open up a deeper understanding of the guitar.\n  </p>\n",
-            "content_html": "\n  <p>\n    Learning these five chord shapes will open up a deeper understanding of the guitar.\n  </p>\n<hr id=\"read-more\" />\n\n  <p>\n    When starting out, we learn several common chords, namely C, A, G, E, and D. Those five chords (and a couple of minor counterparts) are used in countless songs. They also lay the foundation for a greater understanding of the layout of the guitar, forming a constellation that spans the length of the neck.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://musicwithbry.today/media/posts/1/guitar_fretboard-CAGED-2.PNG\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-2-xs.PNG 300w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-2-sm.PNG 480w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-2-md.PNG 768w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-2-lg.PNG 1024w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-2-xl.PNG 1360w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-2-2xl.PNG 1600w\"  height=\"262\" width=\"636\" alt=\"\" />\n      \n    </figure>",
-            "image": "https://musicwithbry.today/media/posts/1/guitar_fretboard-CAGED.PNG",
+            "content_html": "\n  <p>\n    Learning these five chord shapes will open up a deeper understanding of the guitar.\n  </p>\n<hr id=\"read-more\" />\n\n  <p>\n    When starting out, we learn several common chords, namely C, A, G, E, and D. Those five chords (and a couple of minor counterparts) are used in countless songs. They also lay the foundation for a greater understanding of the layout of the guitar, forming a constellation that spans the length of the neck.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://musicwithbry.today/media/posts/1/guitar_fretboard-CAGED.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-xs.png 300w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-sm.png 480w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-md.png 768w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-lg.png 1024w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-xl.png 1360w ,https://musicwithbry.today/media/posts/1/responsive/guitar_fretboard-CAGED-2xl.png 1600w\"  height=\"286\" width=\"674\" alt=\"\" />\n      \n    </figure>",
+            "image": "https://musicwithbry.today/media/posts/1/guitar_fretboard-CAGED-2.png",
             "author": {
                 "name": "Brylie Christopher Oxley"
             },
@@ -23,7 +23,7 @@
                    "guitar"
             ],
             "date_published": "2021-04-17T11:04:52+03:00",
-            "date_modified": "2021-04-17T12:23:12+03:00"
+            "date_modified": "2021-04-17T12:36:03+03:00"
         }
     ]
 }
